@@ -6,4 +6,4 @@ ORCID: orcid.org/0000-0002-5739-8094
 DOI: doi.org/10.5281/zenodo.
 ---
 
-This repository holds supplementary material such as maps, data sets, and code for a paper tentatively titled "Urban food riots in late Ottoman *Bilād al-Shām* as a 'repertoire of contention". All materials are licensed as [cc by-nd 4.0](http://creativecommons.org/licenses/by-nd/4.0/).
+This repository holds supplementary material such as maps, data sets, and code for a paper tentatively titled "Urban food riots in late Ottoman *Bilād al-Shām* as a 'repertoire of contention'". All materials are licensed as [cc by-nd 4.0](http://creativecommons.org/licenses/by-nd/4.0/).
