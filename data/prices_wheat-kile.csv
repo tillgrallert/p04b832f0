@@ -101,7 +101,7 @@ date, source-uuid, orig-data, commodity-1, quantity-1, unit-1, commodity-2, quan
 1909-04-01,41CD1B38-A74E-4196-AA4A-F94BB31F5BC6,wheat which is now 51 p.res a gift (6d/- a bushel),wheat,1,kile,currency,51,ops,
 1909-04-10,8C39166F-F057-4ADA-8947-688BB0BE5A56,the madd of wheat is sold for Ps 24 at the Shamsakin Station,wheat,1,kile,currency,48,ops,
 1909-07-17,F2A0D2E0-0435-44D9-A937-D8E1152D38B0,madd of wheat sells at Ps 18 to Ps 20,wheat,1,kile,currency,36,ops,currency,40,ops,
-1910-01-02,0D3341CC-674F-4F69-BEEE-45842ACFA67E,The prices of wheat are now 7/- [£0"7] per gift or 6/- [£0"6] per bushel,wheat,1,kile,wheat,1,bushel,currency,0.35,gbp,currency,0.3,gbp,
+1910-01-02,0D3341CC-674F-4F69-BEEE-45842ACFA67E,The prices of wheat are now 7/- [£0\"7] per gift or 6/- [£0\"6] per bushel,wheat,1,kile,wheat,1,bushel,currency,0.35,gbp,currency,0.3,gbp,
 1910-12-01,B4205123-ABA2-4B2A-9A81-A646E33E96C8,wheat al-ḥamra al-ʿāl | 47-51,wheat,1,kile,currency,47,ops,currency,51,ops,
 1910-12-01,B4205123-ABA2-4B2A-9A81-A646E33E96C8,wheat from Ḥawrān | 42-46,wheat,1,kile,currency,42,ops,currency,46,ops,
 1910-12-10,68356295-2350-424C-8CA9-72C3DD895666,best wheat | 46-49,wheat,1,kile,currency,46,ops,currency,49,ops,
