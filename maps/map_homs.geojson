@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": 3,
+        "marker-symbol": "rail",
         "name": "railway station"
       },
       "geometry": {
@@ -25,32 +25,6 @@
         "coordinates": [
           36.72547101974487,
           34.73126161947941
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "(Great) al-Nūrī Mosque"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.71480655670166,
-          34.730908926133075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Khālid bin Walīd Mosque"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.715697050094604,
-          34.73678107425633
         ]
       }
     },
@@ -386,23 +360,7 @@
     {
       "type": "Feature",
       "properties": {
-        
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "baracks"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.709721088409424,
-          34.72965685259849
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-symbol": 3,
+        "marker-symbol": "rail",
         "name": "railway station"
       },
       "geometry": {
@@ -423,32 +381,6 @@
         "coordinates": [
           36.72547101974487,
           34.73126161947941
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "(Great) al-Nūrī Mosque"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.71480655670166,
-          34.730908926133075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Khālid bin Walīd Mosque"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.715697050094604,
-          34.73678107425633
         ]
       }
     },
@@ -613,6 +545,8 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "fill": "#f05d65",
         "stroke-width": 0,
         "stroke-opacity": 0.5,
         "fill-opacity": 0.5,
@@ -721,6 +655,9 @@
     {
       "type": "Feature",
       "properties": {
+        
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "coach road station?"
       },
       "geometry": {
@@ -734,23 +671,6 @@
     {
       "type": "Feature",
       "properties": {
-        
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "clock of freedom"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.709163188934326,
-          34.730662039895144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "clock tower"
@@ -766,7 +686,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "khānāt"
@@ -824,9 +743,8 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
-        "marker-symbol": 2,
+        "marker-symbol": "town-hall",
         "name": "baladiyya"
       },
       "geometry": {
@@ -842,7 +760,7 @@
       "properties": {
         
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "cafe",
         "name": "Café al-Rawḍā"
       },
       "geometry": {
@@ -859,7 +777,7 @@
         
         "marker-size": "medium",
         "marker-symbol": 1,
-        "name": "serail"
+        "name": "Serail"
       },
       "geometry": {
         "type": "Point",
@@ -872,7 +790,6 @@
     {
       "type": "Feature",
       "properties": {
-        
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Bāb al-Drīb"
@@ -890,7 +807,7 @@
       "properties": {
         
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": 1,
         "name": "old serail"
       },
       "geometry": {
@@ -906,7 +823,7 @@
       "properties": {
         
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "school",
         "name": "iṣlāḥḫāne"
       },
       "geometry": {
@@ -920,9 +837,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "fill": "#fdfcff",
         "stroke-width": 0,
         "stroke-opacity": 0.5,
-        "fill-opacity": 0.5,
+        "fill-opacity": 0.6,
         "name": "place du marché"
       },
       "geometry": {
@@ -993,7 +912,7 @@
       "type": "Feature",
       "properties": {
         "stroke": "#008BFF",
-        "stroke-width": 8,
+        "stroke-width": 4,
         "stroke-opacity": 1,
         "name": "artificial canal"
       },
@@ -1087,6 +1006,186 @@
           [
             36.712456941604614,
             34.73128807141972
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "(Great) al-Nūrī Mosque"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.71436667442322,
+              34.73093537818626
+            ],
+            [
+              36.714270114898675,
+              34.73069730940287
+            ],
+            [
+              36.71508550643921,
+              34.73052977910718
+            ],
+            [
+              36.715171337127686,
+              34.73073257889553
+            ],
+            [
+              36.71436667442322,
+              34.73093537818626
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        
+        "marker-size": "medium",
+        "marker-symbol": "religious-muslim",
+        "name": "al-Dalātī Mosque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.71464562416077,
+          34.73224915284218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bureau de la Place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.709216833114624,
+          34.7310455949834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Khālid bin Walīd Mosque"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.71538591384888,
+              34.73709406743546
+            ],
+            [
+              36.71532154083252,
+              34.73641958770092
+            ],
+            [
+              36.715965270996094,
+              34.73636668709676
+            ],
+            [
+              36.71600818634033,
+              34.73666645673926
+            ],
+            [
+              36.71606183052063,
+              34.736657640000594
+            ],
+            [
+              36.71612083911896,
+              34.73704998396084
+            ],
+            [
+              36.71538591384888,
+              34.73709406743546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        
+        "marker-size": "medium",
+        "marker-symbol": "religious-muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.714720726013184,
+          34.73071494415107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "religious-muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.715664863586426,
+          34.736657640000594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.5,
+        "name": "barracks"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.70948505401611,
+              34.72993901167026
+            ],
+            [
+              36.709506511688225,
+              34.72924242971549
+            ],
+            [
+              36.71012878417969,
+              34.729295334880085
+            ],
+            [
+              36.70998930931091,
+              34.72999191638899
+            ],
+            [
+              36.70948505401611,
+              34.72993901167026
+            ]
           ]
         ]
       }

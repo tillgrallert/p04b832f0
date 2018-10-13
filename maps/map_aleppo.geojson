@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "railway station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.14756488800049,
+          36.21429397961429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "al-Jalūm quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.15548276901245,
+          36.19628708746127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "town-hall",
+        "name": "Municipality"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.164366245269775,
+          36.20177616561836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "army barracks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.16970920562744,
+          36.20769770477292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "1",
+        "name": "Serail"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.162842750549316,
+          36.197429955645894
+        ]
+      }
+    }
+  ]
+}
